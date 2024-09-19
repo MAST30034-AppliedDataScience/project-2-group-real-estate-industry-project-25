@@ -11,6 +11,6 @@
 
 
 To dos:
-- [ ] Evaluate important features from the datasets scraped
+- [/ ] Evaluate important features from the datasets scraped
 - [ ] Visualisation
 - [ ] Scrape datasets containing property descriptions
