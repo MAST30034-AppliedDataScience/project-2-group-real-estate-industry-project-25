@@ -338,9 +338,10 @@ def main():
             property_details = future.result()
             if property_details:
                 properties_details.append(property_details)
-
-    csv_file = "../data/landing/alt_properties.csv"
+    cwd = os.getcwd()
+    csv_file = os.path.join(cwd, "data/landing/alt_properties.csv")
     csv_columns = ["URL", "Rent_Price", "Address", "Bedrooms", "Bathrooms", "Parking", "Property_Type", "Latitude", "Longitude", "Property_Headline","Property_Description"]
+    os.makedirs(os.path.dirname(csv_file), exist_ok=True)
     try:
         with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
             writer = csv.DictWriter(file, fieldnames=csv_columns)
