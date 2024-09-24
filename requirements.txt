@@ -15,9 +15,10 @@ spacy
 textblob
 beautifulsoup4
 lxml
-csv
 geopandas
 statsmodels
 wordcloud
 matplotlib
 textblob==0.18.0.post0
+ipykernel
+nbformat==4.2.0 
