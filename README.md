@@ -3,14 +3,15 @@
 3. `cd project-2-group-real-estate-industry-project-25`
 4. pip install -r requirements.txt
 5. Get an API key from [OSM](https://openrouteservice.org/dev/#/login)
-6. Go to `notebooks`, then `Preliminary.ipynb`. Run all cells to scrape the data.
-7. Go to `notebooks`, then `DataCleaning.ipynb`.
-   * Insert API key from OSM, then run all cells:
-    <img width="1135" alt="image" src="https://github.com/user-attachments/assets/8e72d4b7-a425-4a18-8ca2-4c70cac67855">
-
+6. Run the `scrape.py` script to scrape property data
+7. Go to `notebooks`, then `Preliminary.ipynb`. Run all cells to scrape the data from websites.
+8. Go to `notebooks`, then `Analysis.ipynb`.
+   * Insert API key from OSM, then run all cells
+9.  Go to `notebooks`, then `Analysis2.ipynb`. Run.
+10.  Go to `notebooks`, then `preprocess.ipynb`. Run
 
 
 To dos:
-- [ ] Evaluate important features from the datasets scraped
-- [ ] Visualisation
-- [ ] Scrape datasets containing property descriptions
+- [ ] Improve model 
+- [ ] Predict 3 years price
+- [ ] Slides
