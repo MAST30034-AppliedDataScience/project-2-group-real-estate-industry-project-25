@@ -323,7 +323,7 @@ def main():
     with ThreadPoolExecutor(max_workers=10) as executor:
         futures = []
         for suburb in suburbs_with_zip_codes:
-            for page in range(1, 3):  
+            for page in range(1, 10):  
                 futures.append(executor.submit(scrape_page, suburb, page))
 
         for future in as_completed(futures):
