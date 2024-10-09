@@ -1,4 +1,4 @@
-# Project Setup and Execution Guide
+# Real Estate Rental Prices Prediction in Victoria, Australia
 
 This guide will walk you through setting up, running, and understanding the project to analyze real estate data using location-based analysis, data scraping, and predictive modeling.
 
