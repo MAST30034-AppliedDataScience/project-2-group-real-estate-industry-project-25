@@ -55,9 +55,6 @@ pip install -r requirements.txt
 To use the OpenRouteService API for location-based analysis, follow these steps:
 
 1. Sign up or log in to [OpenRouteService (OSM)](https://openrouteservice.org/dev/#/login) and generate an API key.
-2. In the project directory, go to the `config` folder.
-3. Open the `api_key.txt` file (create one if it doesn't exist) and paste your OpenRouteService API key into the file.
-4. Ensure there are no spaces or extra lines, and save the file.
 
 ## 5. Data Collection
 
@@ -67,6 +64,10 @@ Navigate to the `notebooks` directory and run the data collection notebook to fe
 cd notebooks
 jupyter notebook DataCollecting.ipynb
 ```
+
+1. In the project directory, go to the `config` folder.
+2. Open the `api_key.txt` file (create one if it doesn't exist) and paste your OpenRouteService API key into the file.
+3. Ensure no extra characters or newline.
 
 * Run all cells to download datasets and generate a list of target suburbs for further analysis.
 
