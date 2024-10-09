@@ -4,15 +4,16 @@ This guide will walk you through setting up, running, and understanding the proj
 
 ## Table of Contents
 1. [Clone the Repository](#1-clone-the-repository)
-2. [Install Dependencies](#2-install-dependencies)
-3. [Obtain an API Key](#3-obtain-an-api-key)
-4. [Data Collection](#4-data-collection)
-5. [Data Scraping](#5-data-scraping)
-6. [Data Preprocessing](#6-data-preprocessing)
-7. [Exploratory Data Analysis (EDA)](#7-exploratory-data-analysis-eda)
-8. [School Count Analysis](#8-school-count-analysis)
-9. [Feature Selection](#9-feature-selection)
-10. [Model Building and Evaluation](#10-model-building-and-evaluation)
+2. [Set Up a Python Virtual Environment (Recommended)](#2-set-up-a-python-virtual-environment-recommended)
+3. [Install Dependencies](#3-install-dependencies)
+4. [Obtain an API Key](#4-obtain-an-api-key)
+5. [Data Collection](#5-data-collection)
+6. [Data Scraping](#6-data-scraping)
+7. [Data Preprocessing](#7-data-preprocessing)
+8. [Exploratory Data Analysis (EDA)](#8-exploratory-data-analysis-eda)
+9. [School Count Analysis](#9-school-count-analysis)
+10. [Feature Selection](#10-feature-selection)
+11. [Model Building and Evaluation](#11-model-building-and-evaluation)
 
 ## 1. Clone the Repository
 
