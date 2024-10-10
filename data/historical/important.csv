@@ -1,778 +1,778 @@
 ,Feature,MI Score
-0,Date_Available,0.0
-1,Built in wardrobes,0.01157165273074523
-2,Dishwasher,0.04193162636537262
-3,Air conditioning,0.007797109087939846
-4,Floorboards,0.014781725723517436
-5,Secure Parking,0.01677944165356271
-6,Intercom,0.007085818506489483
-7,Heating,0.0
-8,Ensuite,0.006127013603373976
-9,Balcony / Deck,0.008721071377274292
-10,Fully fenced,0.007398637542620934
-11,Property_Type_Apartment / Unit / Flat,0.0207179023935824
-12,Property_Type_Duplex,0.006506885529858675
-13,Property_Type_House,0.03372032946819692
-14,Property_Type_New Apartments / Off the Plan,0.0
+0,Date_Available,0.008882307342926277
+1,Built in wardrobes,0.0012395449639943656
+2,Dishwasher,0.0394377331190241
+3,Air conditioning,0.00538372956354527
+4,Floorboards,0.023153728860611622
+5,Secure Parking,0.0047322699571574756
+6,Intercom,0.012883070702149002
+7,Heating,0.006735580037050992
+8,Ensuite,0.011249115288702205
+9,Balcony / Deck,0.007345446324066529
+10,Fully fenced,0.005729550232250302
+11,Property_Type_Apartment / Unit / Flat,0.013326103444770254
+12,Property_Type_Duplex,0.0
+13,Property_Type_House,0.028559346658546092
+14,Property_Type_New Apartments / Off the Plan,0.0037926025813102004
 15,Property_Type_New House & Land,0.0
-16,Property_Type_Semi-Detached,0.0001880167244756592
-17,Property_Type_Studio,0.03304231337042052
-18,Property_Type_Terrace,0.002346829393123917
-19,Property_Type_Townhouse,0.01776800482559482
+16,Property_Type_Semi-Detached,0.0010308625790302894
+17,Property_Type_Studio,0.04638025892749842
+18,Property_Type_Terrace,0.0038589928851702204
+19,Property_Type_Townhouse,0.014812543183464477
 20,Property_Type_Villa,0.0
 21,Suburb_Aberfeldie,0.0
 22,Suburb_Airport West,0.0
-23,Suburb_Albanvale,0.006561039133590629
+23,Suburb_Albanvale,0.0
 24,Suburb_Albert Park,0.0
 25,Suburb_Albion,0.0
-26,Suburb_Alfredton,0.0
-27,Suburb_Alphington,0.001113481941545258
-28,Suburb_Altona,0.009057814674438003
-29,Suburb_Altona Meadows,0.002499029384318341
-30,Suburb_Altona North,0.0005739437954956905
+26,Suburb_Alfredton,0.008546570157803135
+27,Suburb_Alphington,0.006882211716521258
+28,Suburb_Altona,0.005339960899765961
+29,Suburb_Altona Meadows,0.0030802528552760222
+30,Suburb_Altona North,0.0
 31,Suburb_Ardeer,0.0
-32,Suburb_Arden Street North Melbourne,0.0
-33,Suburb_Armadale,0.0004153492879028775
-34,Suburb_Armstrong Creek,0.002904422160959319
+32,Suburb_Arden Street North Melbourne,0.002362441809097282
+33,Suburb_Armadale,0.0026414198373096998
+34,Suburb_Armstrong Creek,0.0
 35,Suburb_Ascot,0.0
-36,Suburb_Ascot Vale,0.0024223299833396883
-37,Suburb_Ashburton,0.0
-38,Suburb_Ashwood,0.006428608860688856
-39,Suburb_Aspendale,0.0030400873277136586
-40,Suburb_Aspendale Gardens,0.011381077796095873
-41,Suburb_Avenel,0.0
+36,Suburb_Ascot Vale,0.004181028935176245
+37,Suburb_Ashburton,0.006362365592861741
+38,Suburb_Ashwood,0.002637114987024569
+39,Suburb_Aspendale,0.0013318374643593867
+40,Suburb_Aspendale Gardens,0.0
+41,Suburb_Avenel,0.0002112310399371431
 42,Suburb_Avondale Heights,0.0
-43,Suburb_Bagshot,0.0
-44,Suburb_Bairnsdale,0.00402990454322838
-45,Suburb_Bakery Hill,0.0
-46,Suburb_Balaclava,0.003250385751289997
-47,Suburb_Ballarat Central,0.0002245071391502318
-48,Suburb_Ballarat East,0.011354505956176597
-49,Suburb_Ballarat North,0.002944794945410445
-50,Suburb_Balnarring,0.001038847367226703
-51,Suburb_Balwyn,0.0
-52,Suburb_Balwyn North,0.004772537828060308
-53,Suburb_Baranduda,4.3156665663346416e-07
+43,Suburb_Bagshot,0.0019683839301360972
+44,Suburb_Bairnsdale,0.0014197984702726263
+45,Suburb_Bakery Hill,0.004967929989252884
+46,Suburb_Balaclava,0.003457936246602733
+47,Suburb_Ballarat Central,0.0
+48,Suburb_Ballarat East,0.008057480562617902
+49,Suburb_Ballarat North,0.0035759408475151133
+50,Suburb_Balnarring,0.0
+51,Suburb_Balwyn,0.00723420010201381
+52,Suburb_Balwyn North,0.015095805744187007
+53,Suburb_Baranduda,0.0
 54,Suburb_Barwon Heads,0.0
-55,Suburb_Baxter,0.0021112045812685665
-56,Suburb_Bayswater,0.008959547588109018
-57,Suburb_Bayswater North,0.0007070053514244279
-58,Suburb_Beaconsfield,0.007016595629864897
-59,Suburb_Beaumaris,0.004842040645049561
-60,Suburb_Bell Park,0.0
-61,Suburb_Bell Post Hill,0.0
-62,Suburb_Bellfield,0.0
-63,Suburb_Belmont,0.0
-64,Suburb_Benalla,0.003562035692690202
+55,Suburb_Baxter,0.0
+56,Suburb_Bayswater,0.0022371015105075998
+57,Suburb_Bayswater North,0.005986373845459525
+58,Suburb_Beaconsfield,0.003928385511253518
+59,Suburb_Beaumaris,9.324002016941613e-05
+60,Suburb_Bell Park,0.007124659007898826
+61,Suburb_Bell Post Hill,0.004514702076767296
+62,Suburb_Bellfield,0.004748011490587567
+63,Suburb_Belmont,0.005260614706974476
+64,Suburb_Benalla,0.00046605223146967134
 65,Suburb_Bendigo,0.0
-66,Suburb_Bentleigh,0.009810097429398867
+66,Suburb_Bentleigh,0.000842715875675859
 67,Suburb_Bentleigh East,0.0
-68,Suburb_Berwick,0.007194698104833863
+68,Suburb_Berwick,0.0
 69,Suburb_Bittern,0.0
-70,Suburb_Black Hill,0.000588940496074164
-71,Suburb_Black Rock,0.0
-72,Suburb_Blackburn,0.012240461420529147
+70,Suburb_Black Hill,0.0
+71,Suburb_Black Rock,0.0005007159447798504
+72,Suburb_Blackburn,0.010664567409501613
 73,Suburb_Blackburn North,0.0
-74,Suburb_Blackburn South,0.008653937633182673
-75,Suburb_Bonbeach,0.0019487891074405628
-76,Suburb_Bonnie Brook,0.008226438091628596
-77,Suburb_Bonshaw,0.0
-78,Suburb_Boronia,0.001991895661929144
-79,Suburb_Botanic Ridge,0.007026813726218606
-80,Suburb_Box Hill,0.0021721330705062325
-81,Suburb_Box Hill North,0.0
-82,Suburb_Box Hill South,0.0031524277242773735
+74,Suburb_Blackburn South,0.0
+75,Suburb_Bonbeach,0.0
+76,Suburb_Bonnie Brook,0.010747989794120505
+77,Suburb_Bonshaw,0.0009334602696215999
+78,Suburb_Boronia,0.0
+79,Suburb_Botanic Ridge,0.0002365523316527618
+80,Suburb_Box Hill,0.003922977087448931
+81,Suburb_Box Hill North,0.010007243678974653
+82,Suburb_Box Hill South,0.004302959085328295
 83,Suburb_Braybrook,0.0
-84,Suburb_Breakwater,0.0017616869624685894
-85,Suburb_Briar Hill,0.0015418508623357141
-86,Suburb_Brighton,0.0
-87,Suburb_Brighton East,0.0
-88,Suburb_Broadford,0.0030365542328427697
-89,Suburb_Broadmeadows,0.004211802324145086
-90,Suburb_Brookfield,0.0040859757658824325
-91,Suburb_Brooklyn,0.0
-92,Suburb_Brown Hill,0.0
-93,Suburb_Brunswick,0.009537127239602317
+84,Suburb_Breakwater,0.0
+85,Suburb_Briar Hill,0.008493243395689465
+86,Suburb_Brighton,0.0007558181545814779
+87,Suburb_Brighton East,0.00517778891807863
+88,Suburb_Broadford,0.002009663765642822
+89,Suburb_Broadmeadows,0.0
+90,Suburb_Brookfield,0.00348771777012602
+91,Suburb_Brooklyn,0.0030494182101159506
+92,Suburb_Brown Hill,0.0004897464057962431
+93,Suburb_Brunswick,0.0
 94,Suburb_Brunswick East,0.0
-95,Suburb_Brunswick West,0.0
-96,Suburb_Bulleen,0.0
-97,Suburb_Buln Buln,0.004508321146734939
+95,Suburb_Brunswick West,0.007625054511225304
+96,Suburb_Bulleen,0.0018996728234454974
+97,Suburb_Buln Buln,0.0
 98,Suburb_Bundoora,0.0
 99,Suburb_Burnley,0.0
-100,Suburb_Burnside,0.005884899586761083
-101,Suburb_Burnside Heights,0.0
-102,Suburb_Burwood,0.011615883871547661
-103,Suburb_Burwood East,0.00493146288462154
-104,Suburb_Bushfield,0.006737515371515457
+100,Suburb_Burnside,0.0
+101,Suburb_Burnside Heights,0.004376406767270469
+102,Suburb_Burwood,0.0077846797498055675
+103,Suburb_Burwood East,0.0008135231425667744
+104,Suburb_Bushfield,0.0
 105,Suburb_Cairnlea,0.0
 106,Suburb_California Gully,0.0
-107,Suburb_Camberwell,0.0
-108,Suburb_Campbellfield,0.0
-109,Suburb_Canadian,0.0012112779344770619
-110,Suburb_Canterbury,0.0
-111,Suburb_Cardigan,0.0
+107,Suburb_Camberwell,0.005505601276114991
+108,Suburb_Campbellfield,0.002413611045819719
+109,Suburb_Canadian,0.008462401475466619
+110,Suburb_Canterbury,0.004837967484545347
+111,Suburb_Cardigan,0.0022016033607208385
 112,Suburb_Cardinia,0.0
-113,Suburb_Carlton,0.00953750145189991
-114,Suburb_Carlton North,0.0009599135162359218
+113,Suburb_Carlton,0.013178826140505251
+114,Suburb_Carlton North,0.0
 115,Suburb_Carnegie,0.0
-116,Suburb_Caroline Springs,0.0
-117,Suburb_Carrum,0.00347740741285385
-118,Suburb_Carrum Downs,0.001209700282477577
-119,Suburb_Castlemaine,0.003391184431057015
-120,Suburb_Caulfield,0.0022823299809104913
-121,Suburb_Caulfield East,0.006303718997463292
-122,Suburb_Caulfield North,0.0014649469042842256
-123,Suburb_Caulfield South,0.0
-124,Suburb_Chadstone,0.0
-125,Suburb_Charlemont,0.0
-126,Suburb_Chelsea,0.009205891169722369
-127,Suburb_Chelsea Heights,0.005884422847414195
-128,Suburb_Cheltenham,0.0
+116,Suburb_Caroline Springs,0.004655206494765141
+117,Suburb_Carrum,0.0008004413753532891
+118,Suburb_Carrum Downs,0.006939654711872745
+119,Suburb_Castlemaine,0.004656301580649558
+120,Suburb_Caulfield,0.006821772338915455
+121,Suburb_Caulfield East,0.0002751002421095272
+122,Suburb_Caulfield North,0.00745627748779909
+123,Suburb_Caulfield South,0.00051028921936358
+124,Suburb_Chadstone,0.0008543326778738258
+125,Suburb_Charlemont,0.0019579093954302795
+126,Suburb_Chelsea,0.009071396499855888
+127,Suburb_Chelsea Heights,0.001957298711728006
+128,Suburb_Cheltenham,0.0023553940790033145
 129,Suburb_Chirnside Park,0.0
-130,Suburb_Clarinda,0.0
+130,Suburb_Clarinda,0.003972236419238717
 131,Suburb_Clarkefield,0.0
-132,Suburb_Clayton,0.0
-133,Suburb_Clayton South,0.0013943642674689727
-134,Suburb_Clifton Hill,0.0022676629929598846
-135,Suburb_Clifton Springs,0.004086716889859732
-136,Suburb_Clyde,0.000892202755520044
-137,Suburb_Clyde North,0.0030600087059693415
-138,Suburb_Cobblebank,0.003024183556274984
-139,Suburb_Coburg,0.002198044933698462
-140,Suburb_Coburg North,0.005103381808132301
-141,Suburb_Collingwood,0.0
+132,Suburb_Clayton,0.002652185746124358
+133,Suburb_Clayton South,0.002816844801071916
+134,Suburb_Clifton Hill,0.00030306279317748874
+135,Suburb_Clifton Springs,0.0
+136,Suburb_Clyde,0.0
+137,Suburb_Clyde North,0.00020885578642948488
+138,Suburb_Cobblebank,0.0
+139,Suburb_Coburg,0.0017283447373026561
+140,Suburb_Coburg North,0.0025005346616697732
+141,Suburb_Collingwood,0.0013668460043438913
 142,Suburb_Coolaroo,0.0
-143,Suburb_Corio,0.0029792238342385424
-144,Suburb_Craigieburn,0.004255460635565811
+143,Suburb_Corio,0.0
+144,Suburb_Craigieburn,0.0004922693246873777
 145,Suburb_Cranbourne,0.0
-146,Suburb_Cranbourne East,0.0
+146,Suburb_Cranbourne East,0.0023559652330462644
 147,Suburb_Cranbourne North,0.0
-148,Suburb_Cranbourne South,0.0011482374586744282
+148,Suburb_Cranbourne South,0.0
 149,Suburb_Cranbourne West,0.0
-150,Suburb_Cremorne,0.010071951640347798
-151,Suburb_Crossover,0.0
-152,Suburb_Croydon,0.0019221235535047398
+150,Suburb_Cremorne,0.005165610574619395
+151,Suburb_Crossover,0.006078541091670608
+152,Suburb_Croydon,0.0
 153,Suburb_Croydon Hills,0.0
-154,Suburb_Croydon North,0.00223655241004983
-155,Suburb_Croydon South,0.0
+154,Suburb_Croydon North,0.0
+155,Suburb_Croydon South,0.001056212229873399
 156,Suburb_Curlewis,0.0
-157,Suburb_Dallas,0.0
+157,Suburb_Dallas,0.010356865528063697
 158,Suburb_Dandenong,0.0
-159,Suburb_Dandenong North,0.004030354257405833
-160,Suburb_Dandenong South,0.0010412279454787843
+159,Suburb_Dandenong North,0.002105928931527279
+160,Suburb_Dandenong South,0.0019117670506374473
 161,Suburb_Deepdene,0.0
-162,Suburb_Deer Park,0.009905386666045679
-163,Suburb_Delacombe,0.0009476923666962289
-164,Suburb_Delahey,0.0009288174517982917
-165,Suburb_Derrimut,0.0015416811649362483
-166,Suburb_Devon Meadows,0.0
+162,Suburb_Deer Park,0.009031653281442509
+163,Suburb_Delacombe,0.0060683245480197545
+164,Suburb_Delahey,0.005620520568585308
+165,Suburb_Derrimut,0.0
+166,Suburb_Devon Meadows,0.00517307853737603
 167,Suburb_Diamond Creek,0.0
-168,Suburb_Diggers Rest,0.0
-169,Suburb_Dingley Village,0.0039645418764187035
-170,Suburb_Docklands,0.006306046368150797
-171,Suburb_Doncaster,0.005764857284066061
-172,Suburb_Doncaster East,0.01295618021260414
-173,Suburb_Donnybrook,0.007444422790886529
-174,Suburb_Donvale,0.002345402470904867
-175,Suburb_Doveton,0.0019693671415217384
-176,Suburb_Dromana,0.0036488068638205196
-177,Suburb_Drouin,0.004341965134375014
+168,Suburb_Diggers Rest,0.006009153836734837
+169,Suburb_Dingley Village,0.0009366403772974596
+170,Suburb_Docklands,0.0050183876701295205
+171,Suburb_Doncaster,0.0013926324081403596
+172,Suburb_Doncaster East,0.0032497807716913574
+173,Suburb_Donnybrook,0.0009628829956527252
+174,Suburb_Donvale,0.0
+175,Suburb_Doveton,0.0023309666529542916
+176,Suburb_Dromana,0.0012947957555631273
+177,Suburb_Drouin,0.006289269825479948
 178,Suburb_Drumcondra,0.0
 179,Suburb_Drysdale,0.0
-180,Suburb_Eagle Point,0.005031315872944031
+180,Suburb_Eagle Point,0.004621641964112078
 181,Suburb_Eaglehawk,0.0
-182,Suburb_Eaglemont,0.0007015812472916938
-183,Suburb_East Bendigo,0.0
-184,Suburb_East Geelong,0.004873333307050753
+182,Suburb_Eaglemont,0.0036316792363093597
+183,Suburb_East Bendigo,0.0018325010040110001
+184,Suburb_East Geelong,0.008059607076261965
 185,Suburb_East Melbourne,0.0
-186,Suburb_Eastwood,0.004847237887597444
-187,Suburb_Echuca,0.008145067504276682
-188,Suburb_Edithvale,0.0
-189,Suburb_Elsternwick,0.009283254484210968
-190,Suburb_Eltham,0.0
+186,Suburb_Eastwood,0.0
+187,Suburb_Echuca,0.0
+188,Suburb_Edithvale,0.003146691594852591
+189,Suburb_Elsternwick,0.0
+190,Suburb_Eltham,0.00048148234766753895
 191,Suburb_Elwood,0.0
 192,Suburb_Endeavour Hills,0.0
-193,Suburb_Epping,0.00027172221238491723
-194,Suburb_Epsom,0.0041736657770696795
-195,Suburb_Essendon,0.0028602301436813082
-196,Suburb_Essendon North,0.00475894256246856
-197,Suburb_Essendon West,0.000586950980377754
-198,Suburb_Eumemmerring,0.0
-199,Suburb_Eynesbury,0.0
-200,Suburb_Fairfield,0.0
-201,Suburb_Fawkner,0.0032274406714163373
+193,Suburb_Epping,0.0
+194,Suburb_Epsom,0.0
+195,Suburb_Essendon,0.004671784349520758
+196,Suburb_Essendon North,0.0
+197,Suburb_Essendon West,0.0
+198,Suburb_Eumemmerring,0.00572997759028282
+199,Suburb_Eynesbury,0.0015470365987433343
+200,Suburb_Fairfield,0.004536020701031207
+201,Suburb_Fawkner,0.0
 202,Suburb_Ferntree Gully,0.0
-203,Suburb_Fitzroy,0.0
-204,Suburb_Fitzroy North,0.0
-205,Suburb_Flemington,0.0015092973127706077
-206,Suburb_Flora Hill,0.012279133122935937
-207,Suburb_Footscray,0.0004985176765452959
+203,Suburb_Fitzroy,0.0007236781652069091
+204,Suburb_Fitzroy North,0.002680886860655818
+205,Suburb_Flemington,0.0
+206,Suburb_Flora Hill,0.0038072253954042345
+207,Suburb_Footscray,0.011008448624901135
 208,Suburb_Forest Hill,0.0
-209,Suburb_Frankston,0.008186269792765488
+209,Suburb_Frankston,0.0025817052885965808
 210,Suburb_Frankston North,0.0
-211,Suburb_Frankston South,0.0
+211,Suburb_Frankston South,0.003523666984799112
 212,Suburb_Fyansford,0.0
-213,Suburb_Gardenvale,0.0006355895290182101
-214,Suburb_Geelong,0.0019750306288783825
-215,Suburb_Geelong West,0.005145205067061509
-216,Suburb_Gisborne,0.0
-217,Suburb_Gladstone Park,0.0
-218,Suburb_Glen Huntly,0.005833600123944072
-219,Suburb_Glen Iris,0.0
-220,Suburb_Glen Waverley,0.0008940811174276142
-221,Suburb_Glengarry,0.009209127864785005
-222,Suburb_Glenroy,0.00475499871803664
-223,Suburb_Golden Beach,0.004277533596013683
-224,Suburb_Golden Gully,0.0033424528068111137
+213,Suburb_Gardenvale,0.0
+214,Suburb_Geelong,0.0
+215,Suburb_Geelong West,0.011187745209852107
+216,Suburb_Gisborne,0.006909690813076352
+217,Suburb_Gladstone Park,0.009415324039856898
+218,Suburb_Glen Huntly,0.0
+219,Suburb_Glen Iris,0.002751524849002207
+220,Suburb_Glen Waverley,0.0097728284546581
+221,Suburb_Glengarry,0.0
+222,Suburb_Glenroy,0.003138725224578476
+223,Suburb_Golden Beach,0.0
+224,Suburb_Golden Gully,0.0
 225,Suburb_Golden Point,0.0
 226,Suburb_Golden Square,0.0
-227,Suburb_Greensborough,0.0012740755071227738
-228,Suburb_Greenvale,0.0
-229,Suburb_Grovedale,0.006435920455778232
-230,Suburb_Hadfield,0.006276587509981502
+227,Suburb_Greensborough,0.00221030978557768
+228,Suburb_Greenvale,0.004506186205049945
+229,Suburb_Grovedale,0.0
+230,Suburb_Hadfield,0.0021706974037456472
 231,Suburb_Hallam,0.0
-232,Suburb_Hamilton,0.0034609554792286445
-233,Suburb_Hamlyn Heights,0.0
-234,Suburb_Hampton,0.0
-235,Suburb_Hampton East,0.004633072857793463
-236,Suburb_Hampton Park,0.0
-237,Suburb_Harkaway,0.0
-238,Suburb_Harkness,0.004953367210899895
-239,Suburb_Hastings,0.006354167015158785
-240,Suburb_Hawthorn,0.0026112708988292876
-241,Suburb_Hawthorn East,0.005718564763078415
+232,Suburb_Hamilton,0.0071103236082503685
+233,Suburb_Hamlyn Heights,0.006515775737303109
+234,Suburb_Hampton,0.0007471048106171274
+235,Suburb_Hampton East,0.0012181092934517856
+236,Suburb_Hampton Park,0.014138069277674914
+237,Suburb_Harkaway,0.00171548936728394
+238,Suburb_Harkness,0.0017370824373117433
+239,Suburb_Hastings,0.0
+240,Suburb_Hawthorn,0.004245740528841635
+241,Suburb_Hawthorn East,0.0015726397803474956
 242,Suburb_Hazelwood North,0.0
-243,Suburb_Heatherton,0.0
-244,Suburb_Heathmont,0.0
-245,Suburb_Heidelberg,0.0
-246,Suburb_Heidelberg Heights,0.005457066781332731
+243,Suburb_Heatherton,0.01484844898280202
+244,Suburb_Heathmont,0.006405213217727468
+245,Suburb_Heidelberg,0.0006412341584658421
+246,Suburb_Heidelberg Heights,0.0
 247,Suburb_Heidelberg West,0.0
-248,Suburb_Herne Hill,0.0
-249,Suburb_Highett,0.004250206166480641
-250,Suburb_Highton,0.008213447122096706
-251,Suburb_Hillside,0.0
+248,Suburb_Herne Hill,0.008199390224315817
+249,Suburb_Highett,0.004310931388760597
+250,Suburb_Highton,0.0
+251,Suburb_Hillside,0.002017731063278294
 252,Suburb_Hoppers Crossing,0.0
-253,Suburb_Horsham,0.0
-254,Suburb_Hughesdale,0.0
-255,Suburb_Huntingdale,0.0
-256,Suburb_Huntly,0.0
-257,Suburb_Invermay Park,0.0008072849215150502
-258,Suburb_Ironbark,0.005169360463299633
-259,Suburb_Irymple,0.0032651225310493803
+253,Suburb_Horsham,0.0003176344464357328
+254,Suburb_Hughesdale,0.007356599618450144
+255,Suburb_Huntingdale,0.006882525815001372
+256,Suburb_Huntly,0.009522448753220392
+257,Suburb_Invermay Park,0.0
+258,Suburb_Ironbark,0.002698011519456145
+259,Suburb_Irymple,0.0
 260,Suburb_Ivanhoe,0.0
-261,Suburb_Ivanhoe East,0.014549697220694657
+261,Suburb_Ivanhoe East,0.004253939339255108
 262,Suburb_Jacana,0.0
-263,Suburb_Jackass Flat,0.006138021729914289
-264,Suburb_Jan Juc,0.003903936408759856
-265,Suburb_Kalkallo,0.0011741676498084885
-266,Suburb_Kangaroo Flat,0.0
-267,Suburb_Kealba,7.322023344524808e-06
-268,Suburb_Keilor,0.010996591912247888
-269,Suburb_Keilor Downs,0.001653967099459086
-270,Suburb_Keilor East,4.119595002238796e-05
+263,Suburb_Jackass Flat,0.0009396523682427826
+264,Suburb_Jan Juc,0.0
+265,Suburb_Kalkallo,0.0035365945261429665
+266,Suburb_Kangaroo Flat,0.013045275420686453
+267,Suburb_Kealba,0.0
+268,Suburb_Keilor,0.00815789264726563
+269,Suburb_Keilor Downs,0.007284579468429309
+270,Suburb_Keilor East,0.0011558071407913317
 271,Suburb_Keilor Park,0.0
 272,Suburb_Kennington,0.0
-273,Suburb_Kensington,0.016291293439636645
-274,Suburb_Kew,0.0016132188204180942
-275,Suburb_Kew East,0.0019759975400956975
-276,Suburb_Keysborough,0.0
-277,Suburb_Kialla,0.006844934023435334
-278,Suburb_Killara,0.0
+273,Suburb_Kensington,0.002402778139207973
+274,Suburb_Kew,0.0
+275,Suburb_Kew East,0.0
+276,Suburb_Keysborough,0.004440568592203542
+277,Suburb_Kialla,0.0
+278,Suburb_Killara,0.01191438563020597
 279,Suburb_Kilsyth,0.0
-280,Suburb_Kings Park,0.0
+280,Suburb_Kings Park,0.006686185763443264
 281,Suburb_Kingsbury,0.0
-282,Suburb_Kingsville,0.001273456376918336
-283,Suburb_Kirkstall,0.0026980559699563145
-284,Suburb_Knoxfield,0.0
-285,Suburb_Kooyong,0.004029752216057725
-286,Suburb_Kurunjang,0.0
-287,Suburb_Lake Gardens,0.0027779735756139345
-288,Suburb_Lake Wendouree,0.006387189275992133
-289,Suburb_Lalor,0.005564576987479475
-290,Suburb_Langwarrin,0.0
-291,Suburb_Lara,0.0010255519806803282
-292,Suburb_Laverton,0.004202787780289929
-293,Suburb_Learmonth,0.002618109985643491
+282,Suburb_Kingsville,0.005005132045966532
+283,Suburb_Kirkstall,0.0
+284,Suburb_Knoxfield,0.00640547925984758
+285,Suburb_Kooyong,0.0
+286,Suburb_Kurunjang,0.0005593644156609567
+287,Suburb_Lake Gardens,0.0
+288,Suburb_Lake Wendouree,0.005139566243581584
+289,Suburb_Lalor,0.0
+290,Suburb_Langwarrin,0.002439304050462221
+291,Suburb_Lara,0.0027211404507392345
+292,Suburb_Laverton,0.011777532530516943
+293,Suburb_Learmonth,0.0
 294,Suburb_Leneva,0.0
-295,Suburb_Loch Sport,0.0
+295,Suburb_Loch Sport,0.0002575251054273142
 296,Suburb_Long Gully,0.0
 297,Suburb_Lovely Banks,0.0
-298,Suburb_Lower Plenty,0.004429915231699111
-299,Suburb_Lucas,0.0
-300,Suburb_Lucknow,0.0020990745968760827
-301,Suburb_Macleod,0.0
-302,Suburb_Maidstone,0.0115931888977292
-303,Suburb_Malvern,0.0
-304,Suburb_Malvern East,0.000808928748747384
-305,Suburb_Mambourin,0.0
+298,Suburb_Lower Plenty,0.0
+299,Suburb_Lucas,0.0008976926707646715
+300,Suburb_Lucknow,0.00019632606038166855
+301,Suburb_Macleod,0.0040736926770934545
+302,Suburb_Maidstone,0.003836424642705616
+303,Suburb_Malvern,0.005700760213868783
+304,Suburb_Malvern East,0.0
+305,Suburb_Mambourin,0.004187232440889366
 306,Suburb_Manifold Heights,0.0
-307,Suburb_Manor Lakes,0.008706442714499385
-308,Suburb_Manton Road Clayton,0.005275949423564796
-309,Suburb_Maribyrnong,0.0
+307,Suburb_Manor Lakes,0.012630712324975368
+308,Suburb_Manton Road Clayton,0.001050914455912988
+309,Suburb_Maribyrnong,0.00019865714539246682
 310,Suburb_McCrae,0.0
-311,Suburb_McKenzie Hill,0.0
-312,Suburb_McKinnon,0.0
-313,Suburb_Meadow Heights,0.0024518949559375613
-314,Suburb_Melbourne,0.006163306589461737
-315,Suburb_Melton,0.0
-316,Suburb_Melton South,0.0
-317,Suburb_Melton West,0.011692019389946795
-318,Suburb_Mentone,0.0
-319,Suburb_Mickleham,0.003232153391395709
-320,Suburb_Mildura,0.0
-321,Suburb_Mill Park,0.0
-322,Suburb_Miners Rest,0.0
+311,Suburb_McKenzie Hill,0.009427131945931144
+312,Suburb_McKinnon,0.0008080646006780601
+313,Suburb_Meadow Heights,0.003151038283701002
+314,Suburb_Melbourne,0.014995405162965048
+315,Suburb_Melton,0.0022704510744444573
+316,Suburb_Melton South,0.00537642999996546
+317,Suburb_Melton West,0.0
+318,Suburb_Mentone,0.007456099724653331
+319,Suburb_Mickleham,0.007025755609434414
+320,Suburb_Mildura,0.0037591301825083967
+321,Suburb_Mill Park,0.011542291397640847
+322,Suburb_Miners Rest,0.0005981276820159476
 323,Suburb_Mitcham,0.0
-324,Suburb_Moe,0.005481344130116028
-325,Suburb_Mont Albert,0.0023443521332262574
-326,Suburb_Mont Albert North,0.0
-327,Suburb_Montmorency,0.0
-328,Suburb_Moonee Ponds,0.002694279184102477
-329,Suburb_Moorabbin,0.0
-330,Suburb_Mooroolbark,0.0
-331,Suburb_Mooroopna,0.0012381762828519438
-332,Suburb_Mordialloc,0.0
-333,Suburb_Morwell,0.00433124163151577
-334,Suburb_Mount Clear,0.005409008421849437
-335,Suburb_Mount Duneed,0.0
-336,Suburb_Mount Helen,0.0
-337,Suburb_Mount Martha,0.0019883331800751858
+324,Suburb_Moe,0.0011037648297942404
+325,Suburb_Mont Albert,0.0
+326,Suburb_Mont Albert North,0.0048162455390743375
+327,Suburb_Montmorency,0.0008779712288096153
+328,Suburb_Moonee Ponds,0.0
+329,Suburb_Moorabbin,0.0003942908073011342
+330,Suburb_Mooroolbark,0.0008945407847946729
+331,Suburb_Mooroopna,0.005968410329739493
+332,Suburb_Mordialloc,0.001995911310791465
+333,Suburb_Morwell,0.002471999858530971
+334,Suburb_Mount Clear,0.0
+335,Suburb_Mount Duneed,0.005123972196396265
+336,Suburb_Mount Helen,0.0011445041743212148
+337,Suburb_Mount Martha,0.010764932222688817
 338,Suburb_Mount Pleasant,0.0
-339,Suburb_Mount Waverley,0.0024205225445528278
-340,Suburb_Muckleford,0.006843944431545346
-341,Suburb_Mulgrave,0.0
-342,Suburb_Murrumbeena,0.0
-343,Suburb_Nar Nar Goon,0.006716785052622631
-344,Suburb_Nar Nar Goon North,0.005180372043663173
-345,Suburb_Narre Warren,0.0
-346,Suburb_Narre Warren North,0.0
-347,Suburb_Narre Warren South,0.0032066048877330555
+339,Suburb_Mount Waverley,0.0
+340,Suburb_Muckleford,0.0
+341,Suburb_Mulgrave,0.01099337258782418
+342,Suburb_Murrumbeena,0.005207557296351473
+343,Suburb_Nar Nar Goon,0.0
+344,Suburb_Nar Nar Goon North,0.0033248429692156467
+345,Suburb_Narre Warren,0.01317386289658029
+346,Suburb_Narre Warren North,0.002954730452839671
+347,Suburb_Narre Warren South,0.0
 348,Suburb_Nerrina,0.0
-349,Suburb_Newborough,0.004965345314377201
-350,Suburb_Newcomb,0.0
-351,Suburb_Newington,0.0
-352,Suburb_Newport,0.0
-353,Suburb_Newtown,0.004580479135391835
-354,Suburb_Nichols Point,0.0
-355,Suburb_Niddrie,0.007986477620934407
-356,Suburb_Noble Park,0.0025150309191128706
-357,Suburb_Noble Park North,0.004849092974625879
-358,Suburb_Norlane,0.003954176255092978
-359,Suburb_North Bendigo,0.0
-360,Suburb_North Geelong,0.0027710202677098117
-361,Suburb_North Melbourne,0.004663878657317655
-362,Suburb_North Shore,0.0
-363,Suburb_North Warrandyte,0.004842002241849164
-364,Suburb_Northcote,0.0
+349,Suburb_Newborough,0.0
+350,Suburb_Newcomb,0.003742368060480672
+351,Suburb_Newington,0.008725308980680246
+352,Suburb_Newport,0.0017078681680244845
+353,Suburb_Newtown,0.006282898313079155
+354,Suburb_Nichols Point,0.004652899551217837
+355,Suburb_Niddrie,0.007985230500762608
+356,Suburb_Noble Park,0.0039219474081821915
+357,Suburb_Noble Park North,0.0
+358,Suburb_Norlane,0.004356508147387972
+359,Suburb_North Bendigo,0.0008219544585124083
+360,Suburb_North Geelong,0.0
+361,Suburb_North Melbourne,0.007156707695805231
+362,Suburb_North Shore,0.0019096502688109585
+363,Suburb_North Warrandyte,0.002859860072901288
+364,Suburb_Northcote,0.00523027546718402
 365,Suburb_Notting Hill,0.0
-366,Suburb_Nunawading,0.0
-367,Suburb_Oak Park,0.0
+366,Suburb_Nunawading,0.013425670052881866
+367,Suburb_Oak Park,0.008662450559490109
 368,Suburb_Oakleigh,0.0
 369,Suburb_Oakleigh East,0.0
-370,Suburb_Oakleigh South,0.005019166464234948
-371,Suburb_Ocean Grove,0.001331723384446759
+370,Suburb_Oakleigh South,0.0
+371,Suburb_Ocean Grove,9.428604925432182e-05
 372,Suburb_Officer,0.0
-373,Suburb_Officer South,0.0
-374,Suburb_Ormond,0.002546753666447854
-375,Suburb_Pakenham,0.0
-376,Suburb_Parkdale,0.0056084866289611846
-377,Suburb_Parkville,0.0
-378,Suburb_Pascoe Vale,0.0
-379,Suburb_Pascoe Vale South,0.0
-380,Suburb_Patterson Lakes,0.0
-381,Suburb_Point Cook,0.007610655004831823
+373,Suburb_Officer South,0.009327747917740048
+374,Suburb_Ormond,0.003723629300961262
+375,Suburb_Pakenham,0.003290348817048816
+376,Suburb_Parkdale,0.005350427664220447
+377,Suburb_Parkville,0.0030451995260132314
+378,Suburb_Pascoe Vale,0.001402329955231263
+379,Suburb_Pascoe Vale South,0.008563516478368838
+380,Suburb_Patterson Lakes,0.0017263644226443997
+381,Suburb_Point Cook,0.010206488351416354
 382,Suburb_Point Lonsdale,0.0
-383,Suburb_Port Melbourne,0.0
-384,Suburb_Portland,0.005127398719005027
-385,Suburb_Prahran,0.0
-386,Suburb_Preston,0.0026375483154954527
-387,Suburb_Princes Hill,0.009658583272652344
+383,Suburb_Port Melbourne,0.0008926167807890018
+384,Suburb_Portland,0.0005660549514101554
+385,Suburb_Prahran,0.00800228559365701
+386,Suburb_Preston,0.006201815696687651
+387,Suburb_Princes Hill,0.0
 388,Suburb_Quarry Hill,0.0
-389,Suburb_Queenscliff,0.0
-390,Suburb_Redan,0.002305331986052872
+389,Suburb_Queenscliff,0.008733373618748264
+390,Suburb_Redan,0.0
 391,Suburb_Reservoir,0.0
-392,Suburb_Richmond,0.00031382739071839083
+392,Suburb_Richmond,0.00913387337810767
 393,Suburb_Riddells Creek,0.0
-394,Suburb_Ringwood,0.003564449007190218
+394,Suburb_Ringwood,0.00765491647528771
 395,Suburb_Ringwood East,0.0
-396,Suburb_Rippleside,0.0
-397,Suburb_Ripponlea,0.005513650174953311
-398,Suburb_Rockbank,0.0
-399,Suburb_Rosanna,0.003076548287843428
+396,Suburb_Rippleside,0.0010841861307833156
+397,Suburb_Ripponlea,0.0
+398,Suburb_Rockbank,0.009412094577227803
+399,Suburb_Rosanna,0.006711876955153073
 400,Suburb_Rowville,0.0
 401,Suburb_Roxburgh Park,0.0
-402,Suburb_Safety Beach,0.0
-403,Suburb_Sale,0.0030620317832183996
-404,Suburb_Sanctuary Lakes,0.0013545534882530852
-405,Suburb_Sandhurst,0.0031085710030955838
-406,Suburb_Sandringham,0.003690808189020345
-407,Suburb_Scoresby,0.005686923958199586
-408,Suburb_Seabrook,0.0029945985613855086
-409,Suburb_Seaford,0.002241422801697368
-410,Suburb_Seaholme,0.0030563275747355068
-411,Suburb_Seaspray,0.001883998216995364
-412,Suburb_Sebastopol,0.0005750985309791457
-413,Suburb_Seddon,0.004269161732712856
-414,Suburb_Seymour,0.0
-415,Suburb_Shepparton,0.0
-416,Suburb_Skye,0.005255912297843057
-417,Suburb_Smythes Creek,0.0053397330857334335
-418,Suburb_Soldiers Hill,0.004134375626645426
-419,Suburb_South Geelong,0.0024696383976754444
-420,Suburb_South Kingsville,0.007809784952798937
+402,Suburb_Safety Beach,0.004355951898926902
+403,Suburb_Sale,0.0
+404,Suburb_Sanctuary Lakes,0.0
+405,Suburb_Sandhurst,0.00013985838705576903
+406,Suburb_Sandringham,0.0
+407,Suburb_Scoresby,0.0
+408,Suburb_Seabrook,0.0
+409,Suburb_Seaford,0.0011588704277998296
+410,Suburb_Seaholme,0.0
+411,Suburb_Seaspray,0.006602320339080592
+412,Suburb_Sebastopol,0.007421668637963119
+413,Suburb_Seddon,0.0021797952643130003
+414,Suburb_Seymour,0.0020930764387048217
+415,Suburb_Shepparton,0.0013231305806686855
+416,Suburb_Skye,0.0
+417,Suburb_Smythes Creek,0.0
+418,Suburb_Soldiers Hill,0.006426680554023845
+419,Suburb_South Geelong,0.0011098891718932524
+420,Suburb_South Kingsville,0.0
 421,Suburb_South Melbourne,0.0
-422,Suburb_South Morang,0.0
-423,Suburb_South Yarra,0.00805901495446748
-424,Suburb_Southbank,0.020913340612126685
-425,Suburb_Spotswood,0.0
-426,Suburb_Spring Gully,0.0
-427,Suburb_Springvale,0.01033254859708399
-428,Suburb_Springvale South,0.004147611778678728
-429,Suburb_St Albans,0.00580216690205293
+422,Suburb_South Morang,0.009487446971043534
+423,Suburb_South Yarra,0.0038966848681678545
+424,Suburb_Southbank,0.003945023454106966
+425,Suburb_Spotswood,0.006322217948976583
+426,Suburb_Spring Gully,0.009207949317405317
+427,Suburb_Springvale,0.0
+428,Suburb_Springvale South,0.0
+429,Suburb_St Albans,0.0
 430,Suburb_St Albans Park,0.0
-431,Suburb_St Helena,0.006209177231382146
-432,Suburb_St Kilda,0.010113568316791444
-433,Suburb_St Kilda East,0.001934887815778108
-434,Suburb_St Kilda West,0.0
-435,Suburb_Strathdale,0.005207047173783952
-436,Suburb_Strathfieldsaye,0.012219367409208592
-437,Suburb_Strathmore,0.0
-438,Suburb_Strathmore Heights,0.004211147335192678
-439,Suburb_Strathtulloh,0.001155105647596466
-440,Suburb_Sunbury,0.005022235214425352
+431,Suburb_St Helena,0.0
+432,Suburb_St Kilda,0.0
+433,Suburb_St Kilda East,0.013081400241123475
+434,Suburb_St Kilda West,0.010221053010607717
+435,Suburb_Strathdale,0.0
+436,Suburb_Strathfieldsaye,0.003357289033728117
+437,Suburb_Strathmore,0.0029715036209359003
+438,Suburb_Strathmore Heights,0.009559604483250439
+439,Suburb_Strathtulloh,0.0034304952997463722
+440,Suburb_Sunbury,0.0
 441,Suburb_Sunshine,0.0
-442,Suburb_Sunshine North,0.0
-443,Suburb_Sunshine West,0.0007415674305335518
-444,Suburb_Surrey Hills,0.0037814317752358217
-445,Suburb_Swan Hill,0.0024212753048145075
-446,Suburb_Sydenham,0.0
+442,Suburb_Sunshine North,0.0013778487493250058
+443,Suburb_Sunshine West,0.004457583688658895
+444,Suburb_Surrey Hills,0.0
+445,Suburb_Swan Hill,0.0
+446,Suburb_Sydenham,5.5235064342573637e-05
 447,Suburb_Tanjil South,0.0
-448,Suburb_Tarneit,0.01554963799249065
+448,Suburb_Tarneit,0.013849773442616842
 449,Suburb_Taylors Hill,0.0
-450,Suburb_Taylors Lakes,0.0
-451,Suburb_Templestowe,0.0
-452,Suburb_Templestowe Lower,0.005042655806406726
-453,Suburb_The Basin,0.002613890248190698
-454,Suburb_Thomastown,0.0010441718432014913
-455,Suburb_Thomson,0.0043103774129156225
+450,Suburb_Taylors Lakes,0.004188641196775533
+451,Suburb_Templestowe,0.004216778499722906
+452,Suburb_Templestowe Lower,0.0025888348343132694
+453,Suburb_The Basin,0.0
+454,Suburb_Thomastown,0.0018162704992326084
+455,Suburb_Thomson,0.007022989497635024
 456,Suburb_Thornbury,0.0
-457,Suburb_Thornhill Park,0.006023065494406232
-458,Suburb_Toorak,0.0
-459,Suburb_Torquay,0.005554526836926144
-460,Suburb_Trafalgar,0.004704757275029836
-461,Suburb_Trafalgar East,0.0030354151599687462
+457,Suburb_Thornhill Park,0.004156706949156153
+458,Suburb_Toorak,0.0034778253852512098
+459,Suburb_Torquay,0.005559271721109704
+460,Suburb_Trafalgar,0.0
+461,Suburb_Trafalgar East,0.0
 462,Suburb_Traralgon,0.0
-463,Suburb_Travancore,0.016476702351808648
-464,Suburb_Truganina,0.0034460519255463673
-465,Suburb_Tullamarine,0.0007505662187672346
-466,Suburb_Tyabb,0.0007018469828237173
-467,Suburb_Upper Ferntree Gully,0.0
-468,Suburb_Vermont,0.0
-469,Suburb_Vermont South,0.00246792221340586
-470,Suburb_Viewbank,0.0016752346525708006
-471,Suburb_Wallan,0.0
+463,Suburb_Travancore,0.005666462483651991
+464,Suburb_Truganina,0.012022718912732433
+465,Suburb_Tullamarine,0.0
+466,Suburb_Tyabb,0.0022690533364984056
+467,Suburb_Upper Ferntree Gully,0.0034429758916196818
+468,Suburb_Vermont,0.000667753951813177
+469,Suburb_Vermont South,0.0
+470,Suburb_Viewbank,0.0
+471,Suburb_Wallan,0.005630666167179221
 472,Suburb_Wandana Heights,0.0
-473,Suburb_Wantirna,0.0
-474,Suburb_Wantirna South,0.013034162834371976
-475,Suburb_Warragul,0.0
-476,Suburb_Warrandyte,0.000754194340811587
-477,Suburb_Warranwood,0.000865130562135441
-478,Suburb_Warrnambool,0.0
+473,Suburb_Wantirna,0.004291412746115109
+474,Suburb_Wantirna South,0.0
+475,Suburb_Warragul,0.0026600882363418954
+476,Suburb_Warrandyte,0.0
+477,Suburb_Warranwood,0.0019150049646958767
+478,Suburb_Warrnambool,0.00013974837464925116
 479,Suburb_Watsonia,0.0
 480,Suburb_Watsonia North,0.0
-481,Suburb_Waurn Ponds,0.000128653665574463
-482,Suburb_Weir Views,0.0
-483,Suburb_Wendouree,0.008113510774686583
-484,Suburb_Werribee,0.004372116405886306
-485,Suburb_Werribee South,0.003916734217673357
+481,Suburb_Waurn Ponds,0.004186981949801716
+482,Suburb_Weir Views,0.00450813762832869
+483,Suburb_Wendouree,0.007428024180267556
+484,Suburb_Werribee,0.011689536464102979
+485,Suburb_Werribee South,0.004934951084027084
 486,Suburb_West Footscray,0.0
-487,Suburb_West Melbourne,0.0119829415471977
-488,Suburb_West Wodonga,0.0001837909174831065
+487,Suburb_West Melbourne,0.006912003335195482
+488,Suburb_West Wodonga,0.0
 489,Suburb_Westmeadows,0.0
-490,Suburb_Wheelers Hill,0.009617257980980343
-491,Suburb_White Hills,0.0
-492,Suburb_Whittington,0.0
-493,Suburb_Whittlesea,0.0013488272341011243
-494,Suburb_Williamstown,0.008349450288025917
-495,Suburb_Williamstown North,0.0
-496,Suburb_Windsor,0.01745101731218246
+490,Suburb_Wheelers Hill,0.001916469320011327
+491,Suburb_White Hills,0.0030185528726363042
+492,Suburb_Whittington,0.005085716727770029
+493,Suburb_Whittlesea,0.0
+494,Suburb_Williamstown,0.00039203621916583664
+495,Suburb_Williamstown North,0.0040844834306363875
+496,Suburb_Windsor,0.00067611853534566
 497,Suburb_Winslow,0.0
-498,Suburb_Wodonga,0.002468125304385227
-499,Suburb_Wollert,0.003754031001788727
-500,Suburb_Wyndham Vale,0.005915879873217067
-501,Suburb_Yallambie,0.0
-502,Suburb_Yarraville,0.00024608390235481004
+498,Suburb_Wodonga,0.0
+499,Suburb_Wollert,0.0
+500,Suburb_Wyndham Vale,0.004013519007563859
+501,Suburb_Yallambie,0.006996760169146077
+502,Suburb_Yarraville,0.0
 503,Suburb_nan,0.0
-504,Postcode_3002.0,0.0
-505,Postcode_3003.0,0.004091371373666108
-506,Postcode_3004.0,0.002635423910042567
-507,Postcode_3006.0,0.016976995499186298
-508,Postcode_3008.0,0.002825582646663216
-509,Postcode_3011.0,0.002106745277761668
-510,Postcode_3012.0,0.0
-511,Postcode_3013.0,0.004974909470617961
-512,Postcode_3015.0,0.0027845402267090424
-513,Postcode_3016.0,0.0013553862354152013
-514,Postcode_3018.0,0.0
-515,Postcode_3019.0,0.0
-516,Postcode_3020.0,0.004187104299765432
-517,Postcode_3021.0,0.005676696672089365
+504,Postcode_3002.0,0.002226823268098199
+505,Postcode_3003.0,0.0
+506,Postcode_3004.0,0.000470084268369364
+507,Postcode_3006.0,0.014896447384658895
+508,Postcode_3008.0,0.007660208484673081
+509,Postcode_3011.0,0.0
+510,Postcode_3012.0,5.366791285621453e-05
+511,Postcode_3013.0,0.0009663671983661803
+512,Postcode_3015.0,0.0050762733136333615
+513,Postcode_3016.0,0.0
+514,Postcode_3018.0,0.0032027208847071886
+515,Postcode_3019.0,0.0009402502621100872
+516,Postcode_3020.0,0.00310672095689446
+517,Postcode_3021.0,0.004330558312838351
 518,Postcode_3022.0,0.0
-519,Postcode_3023.0,0.004749580662336772
-520,Postcode_3024.0,0.013900371329268912
-521,Postcode_3025.0,0.0023194049831807284
-522,Postcode_3026.0,0.0019857936390259567
-523,Postcode_3028.0,0.004490876574084313
-524,Postcode_3029.0,0.021634706729813713
-525,Postcode_3030.0,0.0
-526,Postcode_3031.0,0.005592077345875968
-527,Postcode_3032.0,0.0
-528,Postcode_3033.0,0.0001670364432999616
-529,Postcode_3034.0,0.006826061307141806
-530,Postcode_3036.0,0.0
-531,Postcode_3037.0,0.0
+519,Postcode_3023.0,0.003922878594037504
+520,Postcode_3024.0,0.014305148895309872
+521,Postcode_3025.0,0.0017979280500364236
+522,Postcode_3026.0,0.0
+523,Postcode_3028.0,0.009266961918642957
+524,Postcode_3029.0,0.017739953829761124
+525,Postcode_3030.0,0.007379914878983707
+526,Postcode_3031.0,0.005328264386226689
+527,Postcode_3032.0,0.008927845343633889
+528,Postcode_3033.0,0.01064614326115243
+529,Postcode_3034.0,0.0
+530,Postcode_3036.0,0.005052444223152097
+531,Postcode_3037.0,0.0016217864923029346
 532,Postcode_3038.0,0.0
-533,Postcode_3039.0,0.0
-534,Postcode_3040.0,0.006055679578844009
-535,Postcode_3041.0,0.0034878566205804873
-536,Postcode_3042.0,0.0019661640105321787
-537,Postcode_3043.0,0.003019294974918596
+533,Postcode_3039.0,0.007037666252091901
+534,Postcode_3040.0,0.0026883101713219837
+535,Postcode_3041.0,0.005441208890862859
+536,Postcode_3042.0,0.0031414172315189504
+537,Postcode_3043.0,0.0
 538,Postcode_3044.0,0.0
-539,Postcode_3046.0,0.003225062725167316
-540,Postcode_3047.0,0.004529815731455056
-541,Postcode_3048.0,0.003835438848790673
-542,Postcode_3049.0,0.0
-543,Postcode_3051.0,0.0
-544,Postcode_3052.0,0.00027167115006077047
-545,Postcode_3053.0,0.019674535514092373
-546,Postcode_3054.0,0.0029531155029494105
-547,Postcode_3055.0,0.0010142614510066927
-548,Postcode_3056.0,0.006647411555043892
-549,Postcode_3057.0,0.0016719618256622049
-550,Postcode_3058.0,0.0009361902264670707
-551,Postcode_3059.0,0.002433966782414254
+539,Postcode_3046.0,0.003369851900728804
+540,Postcode_3047.0,0.0
+541,Postcode_3048.0,0.0015662971714378582
+542,Postcode_3049.0,0.0014652958877876543
+543,Postcode_3051.0,0.004517789572816788
+544,Postcode_3052.0,0.0
+545,Postcode_3053.0,0.01594123150561577
+546,Postcode_3054.0,0.0
+547,Postcode_3055.0,0.0001067870228821377
+548,Postcode_3056.0,0.01415406715589218
+549,Postcode_3057.0,0.007020036651499417
+550,Postcode_3058.0,0.006935991864468916
+551,Postcode_3059.0,0.00911798870612368
 552,Postcode_3060.0,0.0
 553,Postcode_3061.0,0.0
-554,Postcode_3064.0,0.013698897032903279
-555,Postcode_3065.0,0.0015087744380557488
-556,Postcode_3066.0,0.0
-557,Postcode_3067.0,0.009294796139478922
-558,Postcode_3068.0,0.0035608199855614586
+554,Postcode_3064.0,0.007462248422651641
+555,Postcode_3065.0,0.0
+556,Postcode_3066.0,0.008591507666139808
+557,Postcode_3067.0,0.0
+558,Postcode_3068.0,0.0
 559,Postcode_3070.0,0.0
-560,Postcode_3071.0,0.0016026982114480948
+560,Postcode_3071.0,0.0
 561,Postcode_3072.0,0.0
-562,Postcode_3073.0,0.005740975227081835
-563,Postcode_3074.0,0.0022753858233561797
-564,Postcode_3075.0,0.004744565674372536
-565,Postcode_3076.0,0.0
-566,Postcode_3078.0,0.0038930625238748906
-567,Postcode_3079.0,0.008864412735130056
-568,Postcode_3081.0,0.005392342058017974
-569,Postcode_3082.0,0.0
+562,Postcode_3073.0,0.005386971078525926
+563,Postcode_3074.0,0.004946829910764228
+564,Postcode_3075.0,0.0009191669212604836
+565,Postcode_3076.0,0.0033193047241011353
+566,Postcode_3078.0,0.001901305132916642
+567,Postcode_3079.0,0.005926571211035236
+568,Postcode_3081.0,0.01293907968532948
+569,Postcode_3082.0,0.0033446899788900364
 570,Postcode_3083.0,0.0
-571,Postcode_3084.0,0.007868059613357126
-572,Postcode_3085.0,0.0038535794039864513
-573,Postcode_3087.0,0.0
-574,Postcode_3088.0,0.004456737396989263
-575,Postcode_3089.0,0.0007910843519074451
-576,Postcode_3093.0,0.001976960667087413
-577,Postcode_3094.0,0.0010356496213150823
-578,Postcode_3095.0,0.002895989694431167
-579,Postcode_3101.0,0.0
+571,Postcode_3084.0,0.007869717235038154
+572,Postcode_3085.0,0.01404834303828828
+573,Postcode_3087.0,0.0013610555695271476
+574,Postcode_3088.0,0.0008218742394845435
+575,Postcode_3089.0,0.0
+576,Postcode_3093.0,0.0013698542635316446
+577,Postcode_3094.0,0.0013251748614211412
+578,Postcode_3095.0,0.0011104162506621051
+579,Postcode_3101.0,0.0032342925367569997
 580,Postcode_3102.0,0.0
-581,Postcode_3103.0,0.0007055210898339048
-582,Postcode_3104.0,0.004633208528367572
-583,Postcode_3105.0,0.0
+581,Postcode_3103.0,0.0
+582,Postcode_3104.0,0.008009714561207026
+583,Postcode_3105.0,0.004488036228408543
 584,Postcode_3106.0,0.0
-585,Postcode_3107.0,0.0051443169979474845
-586,Postcode_3108.0,0.00028304682511492985
-587,Postcode_3109.0,0.0002997117343404021
-588,Postcode_3111.0,0.00515453842735103
-589,Postcode_3113.0,0.0013830291348126966
-590,Postcode_3116.0,0.00884998442837781
-591,Postcode_3121.0,0.0007660249607532865
-592,Postcode_3122.0,0.0010466051781286012
-593,Postcode_3123.0,0.006358619959873746
-594,Postcode_3124.0,0.013795430076237736
-595,Postcode_3125.0,0.011762030486577757
-596,Postcode_3126.0,0.003213609076685886
-597,Postcode_3127.0,0.0
-598,Postcode_3128.0,0.0006928510322139481
-599,Postcode_3129.0,0.007481610688478746
-600,Postcode_3130.0,0.0
+585,Postcode_3107.0,0.0
+586,Postcode_3108.0,0.0013002240777248986
+587,Postcode_3109.0,0.0073715651283141614
+588,Postcode_3111.0,0.0
+589,Postcode_3113.0,0.006597853162044087
+590,Postcode_3116.0,0.0
+591,Postcode_3121.0,0.0016191789277424373
+592,Postcode_3122.0,0.014125823704625784
+593,Postcode_3123.0,0.0017075541629223423
+594,Postcode_3124.0,0.00017427951618853577
+595,Postcode_3125.0,0.0040636692936120156
+596,Postcode_3126.0,0.001911434486008945
+597,Postcode_3127.0,0.01089343373307261
+598,Postcode_3128.0,0.0
+599,Postcode_3129.0,0.00313830671098958
+600,Postcode_3130.0,0.00011818257301210444
 601,Postcode_3131.0,0.0
 602,Postcode_3132.0,0.0
-603,Postcode_3133.0,0.0
-604,Postcode_3134.0,0.0
-605,Postcode_3135.0,0.0
+603,Postcode_3133.0,0.0025316437874367548
+604,Postcode_3134.0,0.004472828570663445
+605,Postcode_3135.0,0.013284651196821207
 606,Postcode_3136.0,0.0
-607,Postcode_3137.0,0.0
-608,Postcode_3138.0,0.0
-609,Postcode_3141.0,0.005206223406771571
+607,Postcode_3137.0,0.0009998139960734065
+608,Postcode_3138.0,0.009808347530762207
+609,Postcode_3141.0,0.0005571217408271156
 610,Postcode_3142.0,0.0
 611,Postcode_3143.0,0.0
-612,Postcode_3144.0,0.005026350671677227
-613,Postcode_3145.0,0.01584895982279666
-614,Postcode_3146.0,0.0
-615,Postcode_3147.0,0.009020579065831313
-616,Postcode_3148.0,0.008579339802880837
-617,Postcode_3149.0,0.0004847759595094647
-618,Postcode_3150.0,0.006515748173100189
-619,Postcode_3151.0,0.0
-620,Postcode_3152.0,0.0050843458637046535
+612,Postcode_3144.0,0.0
+613,Postcode_3145.0,0.01057169690497517
+614,Postcode_3146.0,0.004829274915415072
+615,Postcode_3147.0,0.0
+616,Postcode_3148.0,0.0015271527937985585
+617,Postcode_3149.0,0.005263667308982978
+618,Postcode_3150.0,0.003048873422432985
+619,Postcode_3151.0,0.00289063251437649
+620,Postcode_3152.0,0.002571175541815185
 621,Postcode_3153.0,0.0
-622,Postcode_3154.0,0.0008342533227247984
+622,Postcode_3154.0,0.0
 623,Postcode_3155.0,0.0
-624,Postcode_3156.0,0.00018267437480901094
-625,Postcode_3161.0,0.0
-626,Postcode_3162.0,0.0010072629392225974
-627,Postcode_3163.0,0.00029123098505179357
-628,Postcode_3165.0,0.002478114113350971
+624,Postcode_3156.0,0.010216013047267714
+625,Postcode_3161.0,0.004659112087264328
+626,Postcode_3162.0,0.0
+627,Postcode_3163.0,0.0
+628,Postcode_3165.0,0.0
 629,Postcode_3166.0,0.0
-630,Postcode_3167.0,0.004719469357646222
-631,Postcode_3168.0,0.00757363107857123
-632,Postcode_3169.0,0.011487678241618449
-633,Postcode_3170.0,0.0
-634,Postcode_3171.0,0.0
-635,Postcode_3172.0,0.000408442605080106
-636,Postcode_3173.0,0.00357578377311496
-637,Postcode_3174.0,0.008107840579011372
-638,Postcode_3175.0,0.0013469378129089549
-639,Postcode_3177.0,0.009195815447585964
-640,Postcode_3178.0,0.0
-641,Postcode_3179.0,0.00959651318553112
+630,Postcode_3167.0,3.3006065562668496e-05
+631,Postcode_3168.0,0.0017374852272271646
+632,Postcode_3169.0,0.001791822814888766
+633,Postcode_3170.0,0.0031422701653496254
+634,Postcode_3171.0,0.004436032652558541
+635,Postcode_3172.0,0.0
+636,Postcode_3173.0,0.0
+637,Postcode_3174.0,0.003945052375916358
+638,Postcode_3175.0,0.0
+639,Postcode_3177.0,0.0020971849012725308
+640,Postcode_3178.0,0.004121123596869669
+641,Postcode_3179.0,0.0
 642,Postcode_3180.0,0.0
-643,Postcode_3181.0,0.013421877183776854
+643,Postcode_3181.0,0.013492405927548523
 644,Postcode_3182.0,0.0
-645,Postcode_3183.0,0.0
+645,Postcode_3183.0,0.0017896414418496764
 646,Postcode_3184.0,0.0
-647,Postcode_3185.0,0.0075905189760021585
-648,Postcode_3186.0,0.008378499031706399
-649,Postcode_3187.0,0.0009752380612051414
-650,Postcode_3188.0,0.0
-651,Postcode_3189.0,0.002784089110461574
-652,Postcode_3190.0,0.0
+647,Postcode_3185.0,0.007347161649036815
+648,Postcode_3186.0,0.0
+649,Postcode_3187.0,0.001620112143203567
+650,Postcode_3188.0,0.0015230435865278835
+651,Postcode_3189.0,0.0
+652,Postcode_3190.0,0.008783939860920853
 653,Postcode_3191.0,0.0
-654,Postcode_3192.0,0.0013336204240901317
-655,Postcode_3193.0,0.0
-656,Postcode_3194.0,0.0
+654,Postcode_3192.0,0.0
+655,Postcode_3193.0,0.0051206545571049755
+656,Postcode_3194.0,0.003484977651790677
 657,Postcode_3195.0,0.0
-658,Postcode_3196.0,0.0
-659,Postcode_3197.0,0.0
-660,Postcode_3198.0,0.0
+658,Postcode_3196.0,0.009142030730610484
+659,Postcode_3197.0,0.002534440445714825
+660,Postcode_3198.0,0.0024237068815857743
 661,Postcode_3199.0,0.0
 662,Postcode_3200.0,0.0
-663,Postcode_3201.0,0.0037505561275135157
-664,Postcode_3202.0,1.0584515880873724e-05
-665,Postcode_3204.0,0.00330177314258151
-666,Postcode_3205.0,0.0010066578200795817
-667,Postcode_3206.0,0.00862800831143451
-668,Postcode_3207.0,0.005747639592714737
+663,Postcode_3201.0,0.0036557854055081496
+664,Postcode_3202.0,0.002002446386200063
+665,Postcode_3204.0,0.007607347602748948
+666,Postcode_3205.0,0.008001795239763743
+667,Postcode_3206.0,0.0
+668,Postcode_3207.0,0.0
 669,Postcode_3212.0,0.0
-670,Postcode_3213.0,0.005756923358400945
-671,Postcode_3214.0,0.008962496001077236
-672,Postcode_3215.0,0.004377441629735301
-673,Postcode_3216.0,0.002450984824916569
-674,Postcode_3217.0,0.010228029096697178
-675,Postcode_3218.0,0.008138422016415348
-676,Postcode_3219.0,0.006067433575663639
-677,Postcode_3220.0,0.0020830724985125837
-678,Postcode_3222.0,0.00032756919190557454
-679,Postcode_3225.0,0.0013838061708271177
-680,Postcode_3226.0,0.010180763735527343
-681,Postcode_3227.0,0.0038840017228793933
-682,Postcode_3228.0,0.001157441148610161
-683,Postcode_3280.0,0.0029033741636876886
-684,Postcode_3281.0,0.0011233068527312096
-685,Postcode_3283.0,0.0
-686,Postcode_3300.0,0.008336075956780542
-687,Postcode_3305.0,0.0014226850166649818
-688,Postcode_3335.0,0.005894148289392831
-689,Postcode_3337.0,0.0032941985522874084
-690,Postcode_3338.0,0.020628626120459792
-691,Postcode_3350.0,0.010675356330110963
-692,Postcode_3351.0,0.0
-693,Postcode_3352.0,0.00626791430908602
-694,Postcode_3355.0,0.0020357507393460317
-695,Postcode_3356.0,0.010266079540776074
-696,Postcode_3400.0,0.012361441891755254
+670,Postcode_3213.0,0.0
+671,Postcode_3214.0,0.01030847098838139
+672,Postcode_3215.0,0.00020022652005424746
+673,Postcode_3216.0,0.008216546449324902
+674,Postcode_3217.0,0.012216270366078419
+675,Postcode_3218.0,0.00756483477444192
+676,Postcode_3219.0,0.011399292580928755
+677,Postcode_3220.0,0.0
+678,Postcode_3222.0,0.0
+679,Postcode_3225.0,0.002839120901969361
+680,Postcode_3226.0,0.0
+681,Postcode_3227.0,0.002040703139465583
+682,Postcode_3228.0,0.004235238839206845
+683,Postcode_3280.0,0.000853338201937115
+684,Postcode_3281.0,0.009557851902282533
+685,Postcode_3283.0,0.009666895285228128
+686,Postcode_3300.0,0.0
+687,Postcode_3305.0,0.00738226559072519
+688,Postcode_3335.0,0.011533578181176285
+689,Postcode_3337.0,0.0
+690,Postcode_3338.0,0.008579240897065521
+691,Postcode_3350.0,0.019727506772501124
+692,Postcode_3351.0,0.002023177132793652
+693,Postcode_3352.0,0.0005038488543576136
+694,Postcode_3355.0,0.0015261880052277466
+695,Postcode_3356.0,0.0037696291723181563
+696,Postcode_3400.0,0.0025193539430188316
 697,Postcode_3427.0,0.0
-698,Postcode_3429.0,0.0
-699,Postcode_3430.0,0.0
+698,Postcode_3429.0,0.005971372126549301
+699,Postcode_3430.0,0.00045060874978153365
 700,Postcode_3431.0,0.0
-701,Postcode_3437.0,0.0
-702,Postcode_3450.0,0.0020976341900653672
-703,Postcode_3451.0,0.0013128570329621336
+701,Postcode_3437.0,0.009810652486643257
+702,Postcode_3450.0,0.0
+703,Postcode_3451.0,0.005191759611407054
 704,Postcode_3498.0,0.0
 705,Postcode_3500.0,0.0
-706,Postcode_3501.0,0.0
-707,Postcode_3550.0,0.009095965868958888
-708,Postcode_3551.0,0.00034826818944200255
+706,Postcode_3501.0,0.004069657189141651
+707,Postcode_3550.0,0.00025276406347995994
+708,Postcode_3551.0,0.0
 709,Postcode_3555.0,0.0
-710,Postcode_3556.0,0.00231937940917204
-711,Postcode_3564.0,0.0020281466907221546
-712,Postcode_3585.0,0.0026346453262435787
-713,Postcode_3629.0,0.0006148905319418585
-714,Postcode_3630.0,0.002581073015117008
+710,Postcode_3556.0,0.0018749878128168085
+711,Postcode_3564.0,0.0
+712,Postcode_3585.0,0.0
+713,Postcode_3629.0,0.007348262248499937
+714,Postcode_3630.0,0.0
 715,Postcode_3631.0,0.0
-716,Postcode_3658.0,0.008061679365632735
+716,Postcode_3658.0,0.0007285228765634422
 717,Postcode_3660.0,0.0
 718,Postcode_3664.0,0.0
-719,Postcode_3672.0,0.0025101746846611928
+719,Postcode_3672.0,0.010786161388431026
 720,Postcode_3690.0,0.0
-721,Postcode_3691.0,0.003845665837559631
-722,Postcode_3750.0,0.0074175833068190755
-723,Postcode_3752.0,0.010743575659848625
-724,Postcode_3756.0,0.0039518531431850246
+721,Postcode_3691.0,0.0
+722,Postcode_3750.0,0.01424521040648763
+723,Postcode_3752.0,0.006337237132079787
+724,Postcode_3756.0,0.0014253119269025394
 725,Postcode_3757.0,0.0
-726,Postcode_3802.0,0.0
-727,Postcode_3803.0,0.0018155152053682677
-728,Postcode_3804.0,0.0027152346123033855
+726,Postcode_3802.0,0.00043216552923897034
+727,Postcode_3803.0,0.0
+728,Postcode_3804.0,0.004568833374426262
 729,Postcode_3805.0,0.0
-730,Postcode_3806.0,0.001021014545006027
-731,Postcode_3807.0,0.002170964508111606
-732,Postcode_3809.0,0.002982059438136897
-733,Postcode_3810.0,0.001064064621167704
-734,Postcode_3812.0,0.0013704232033242558
+730,Postcode_3806.0,0.0
+731,Postcode_3807.0,0.0029550695866731314
+732,Postcode_3809.0,0.012011321268309949
+733,Postcode_3810.0,0.010437940943856194
+734,Postcode_3812.0,0.0
 735,Postcode_3818.0,0.0
-736,Postcode_3820.0,0.0
-737,Postcode_3821.0,0.0
-738,Postcode_3824.0,0.0024600935891578857
-739,Postcode_3825.0,0.003406656425760435
-740,Postcode_3840.0,0.006880778844497337
-741,Postcode_3844.0,0.0
-742,Postcode_3850.0,0.005012898536381094
-743,Postcode_3851.0,0.0034702008335880663
-744,Postcode_3854.0,0.0
-745,Postcode_3875.0,7.572112811504716e-05
-746,Postcode_3878.0,0.002825091627767451
-747,Postcode_3910.0,0.0
-748,Postcode_3911.0,0.00445863886781761
+736,Postcode_3820.0,0.004653084519077533
+737,Postcode_3821.0,0.003939811127504411
+738,Postcode_3824.0,0.0037620356934406907
+739,Postcode_3825.0,0.0
+740,Postcode_3840.0,0.017449328746319548
+741,Postcode_3844.0,0.0016676497631733511
+742,Postcode_3850.0,0.000959178665617122
+743,Postcode_3851.0,0.006602698105212079
+744,Postcode_3854.0,0.0019340298697587688
+745,Postcode_3875.0,0.0
+746,Postcode_3878.0,0.001513706943976345
+747,Postcode_3910.0,0.003241708778505714
+748,Postcode_3911.0,0.0
 749,Postcode_3913.0,0.0
 750,Postcode_3915.0,0.0
-751,Postcode_3918.0,0.002914424125446402
-752,Postcode_3926.0,0.0018453199685994903
-753,Postcode_3934.0,0.0
-754,Postcode_3936.0,0.0
+751,Postcode_3918.0,9.112089723495309e-05
+752,Postcode_3926.0,0.002280369653337777
+753,Postcode_3934.0,0.0024526898132501973
+754,Postcode_3936.0,0.001013555319692161
 755,Postcode_3938.0,0.0
-756,Postcode_3976.0,0.005714781343753028
-757,Postcode_3977.0,0.0007598945281586111
-758,Postcode_3978.0,0.004373878245163887
-759,Postcode_nan,0.0
-760,Dominant_Topic_Label_Central Units for Lease,0.009433012640837957
-761,Dominant_Topic_Label_Family Homes in Prime Locations,0.022754978210396848
-762,"Dominant_Topic_Label_Modern, Low-Maintenance Apartments",0.012866443949227868
-763,Dominant_Topic_Label_Stunning Furnished Apartments/Townhouses,0.0067761233674843435
-764,Bedrooms,0.15934344384313226
-765,Bathrooms,0.12361267171244261
-766,CBDDurations_log,0.22185141328719915
-767,Parking,0.07453810676612527
-768,negative_class,0.0038714004137099245
-769,positive_class,0.013784730563627612
-770,Sentiment,0.06669485120089824
-771,School_Counts_boxcox,0.0636956960475783
-772,Distance_to_Nearest_Station_log,0.23992679128078986
-773,Bond,3.6616610065669497
-774,Property_Size,0.08927059930952641
-775,Feature_Count,0.04170083165279781
-776,Days_From_Now,0.04866331893228537
+756,Postcode_3976.0,0.004890476183316617
+757,Postcode_3977.0,0.0
+758,Postcode_3978.0,0.014634213353951875
+759,Postcode_nan,0.011268505227526093
+760,Dominant_Topic_Label_Central Units for Lease,0.0015904371149009222
+761,Dominant_Topic_Label_Family Homes in Prime Locations,0.01548147017174717
+762,"Dominant_Topic_Label_Modern, Low-Maintenance Apartments",0.01010158876526801
+763,Dominant_Topic_Label_Stunning Furnished Apartments/Townhouses,0.004826435030954146
+764,Bedrooms,0.1602138142697993
+765,Bathrooms,0.13129813511389155
+766,CBDDurations_log,0.22245848770030907
+767,Parking,0.06475578794721937
+768,negative_class,0.0
+769,positive_class,0.005813885171815025
+770,Sentiment,0.0666990473458462
+771,School_Counts_boxcox,0.07156277323662774
+772,Distance_to_Nearest_Station_log,0.24006040459938127
+773,Bond,3.6607705076904384
+774,Property_Size,0.08096178060689763
+775,Feature_Count,0.03027657591576638
+776,Days_From_Now,0.046857586604676094
