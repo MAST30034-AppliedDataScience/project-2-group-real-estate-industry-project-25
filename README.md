@@ -58,12 +58,9 @@ To use the OpenRouteService API for location-based analysis, follow these steps:
 
 ## 5. Data Collection
 
-Navigate to the `notebooks` directory and run the data collection notebook to fetch external datasets:
+Navigate to the `notebooks` directory and run the `1_DataCollecting.ipynb` to fetch external datasets:
 
-```bash
-cd notebooks
-jupyter notebook DataCollecting.ipynb
-```
+
 
 1. In the project directory, go to the `config` folder.
 2. Open the `api_key.txt` file (create one if it doesn't exist) and paste your OpenRouteService API key into the file.
@@ -73,7 +70,7 @@ jupyter notebook DataCollecting.ipynb
 
 ## 6. Data Scraping
 
-To collect property data from Domain.com.au, run the following script located in the `scripts` folder:
+To collect property data from Domain.com.au, run the `2_scrape.ipynb` located in the `scripts` folder:
 
 ```bash
 cd ../scripts
@@ -84,48 +81,33 @@ python scrape.py
 
 ## 7. Data Preprocessing
 
-Preprocess the collected data to prepare it for analysis. Run the preprocessing notebook and make sure to insert your OpenRouteService API key when prompted:
+Preprocess the collected data to prepare it for analysis. Run the `3_Preprocessing.ipynb` and make sure to insert your OpenRouteService API key when prompted:
 
-```bash
-cd ../notebooks
-jupyter notebook PreProcessing.ipynb
-```
+
 * This step includes cleaning the data, handling missing values, converting categorical data, and addressing outliers.
 
 ## 8. Exploratory Data Analysis (EDA)
 
-To gain insights into the dataset, open and run the EDA notebook:
+To gain insights into the dataset, open and run the `4_EDA.ipynb`:
 
-```bash
-jupyter notebook EDA.ipynb
-```
 
 * This notebook provides visualizations, feature distributions, and insights into the significance of various columns.
 
 ## 9. School Count Analysis
 
-To analyze the impact of nearby schools on property prices, run the following notebook:
+To analyze the impact of nearby schools on property prices, run the `5_SchoolCountAnalysis.ipynb`:
 
-```bash
-jupyter notebook SchoolCountAnalysis.ipynb
-```
+
 
 * This notebook aggregates nearby school counts and creates a feature that captures the number of schools within a 2km radius for each property.
 
 ## 10. Feature Selection
 
-Feature engineering and selection are critical for model building. Use the following notebook to perform feature scaling, one-hot encoding, KNN imputation, PCA, and mutual information analysis:
+Feature engineering and selection are critical for model building. Use the following notebook - `6_FeatureSelections.ipynb`to perform feature scaling, one-hot encoding, KNN imputation, PCA, and mutual information analysis:
 
-```bash
-jupyter notebook FeatureSelections.ipynb
-```
 
 ## 11. Model Building and Evaluation
 
-To construct predictive models, open and run the Model Building notebook:
-
-```bash
-jupyter notebook ModelBuilding.ipynb
-```
+To construct predictive models, open and run the `7_ModelBuilding.ipynb`:
 
 * This notebook covers the creation and evaluation of various models, including simple regression models, stacked models, and deep learning approaches.

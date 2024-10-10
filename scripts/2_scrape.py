@@ -7,12 +7,14 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import csv
 import pandas as pd
 
-# Load suburb URLs from CSV
+# Load suburb URLs from CSV file containing suburb URLs
 suburbs = pd.read_csv("../project-2-group-real-estate-industry-project-25/data/landing/url-site.csv")
 suburbs_with_zip_codes = list(suburbs["url"])
 
+# Base URL for Domain.com.au
 home_url = "https://www.domain.com.au/"
 
+# Function to fetch a webpage with retry logic in case of errors
 def fetch_page(url, retries=3, delay=5):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.49 Safari/537.36',
@@ -24,53 +26,50 @@ def fetch_page(url, retries=3, delay=5):
     for attempt in range(retries):
         try:
             response = requests.get(url, headers=headers, timeout=10)
-            response.raise_for_status()
+            response.raise_for_status()  # Raise an error for bad status codes
             return response
         except requests.exceptions.RequestException as e:
-            print(f"Attempt {attempt+1}/{retries} failed for URL: {url}. Error: {e}")
+            print(f"Attempt {attempt + 1}/{retries} failed for URL: {url}. Error: {e}")
             time.sleep(delay)
     return None
 
+# Function to scrape property details from an individual listing URL
 def scrape_property_details(url):
     print(f"Scraping details for: {url}")
     response = fetch_page(url)
     if not response:
         return None
-    
+
     bsobj = BeautifulSoup(response.text, "lxml")
     pattern1 = re.compile(r'>(.+)<.')
     pattern2 = re.compile(r'destination=(.+)" rel=.')
     
     try:
+        # Extract property name, price, and features
         property_name = bsobj.find("h1", {"class": "css-164r41r"}).text.strip() if bsobj.find("h1", {"class": "css-164r41r"}) else None
-
         property_price = bsobj.find("div", {"data-testid": "listing-details__summary-title"})
         property_price = pattern1.findall(str(property_price))[0] if property_price else None
 
         all_basic_features = bsobj.find("div", {"data-testid": "property-features-wrapper"})
         all_basic_features = all_basic_features.findAll("span", {"data-testid": "property-features-text-container"}) if all_basic_features else []
         
-        property_features = []
-        for feature in all_basic_features:
-            property_features.append(feature.contents[0].strip())
-        
+        property_features = [feature.contents[0].strip() for feature in all_basic_features]
+
         # Handle missing features (Bedrooms, Bathrooms, Parking)
         bedrooms = property_features[0] if len(property_features) > 0 else "-"
         bathrooms = property_features[1] if len(property_features) > 1 else "-"
         parking = property_features[2] if len(property_features) > 2 else "-"
 
+        # Extract other property information (type, location, extra features, etc.)
         type_div = bsobj.find("div", {"data-testid": "listing-summary-property-type"})
         property_type = type_div.find("span").text.strip() if type_div and type_div.find("span") else "N/A"
 
-
         lat_long = bsobj.find("a", {"target": "_blank", 'rel': "noopener noreferrer"})
         latitude, longitude = None, None
-        
         if lat_long:
             lat_long_match = pattern2.findall(str(lat_long))
             if lat_long_match:
                 latitude, longitude = lat_long_match[0].split(',')
-
 
         extras = []
         extra_features = bsobj.find("ul", {"class": "css-4ewd2m"})
@@ -85,7 +84,8 @@ def scrape_property_details(url):
         if property_header:
             for p in property_header.find_next_siblings('p'):
                 property_description += p.get_text(strip=True) + " "
-    
+
+        # Extract availability, bond, internal area, etc.
         listing_summary = bsobj.find("ul", {"data-testid": "listing-summary-strip", "class": "css-1h9anz9"})
         availability = date_available = bond = internal_area = land_area = "-"
         if listing_summary:
@@ -102,6 +102,7 @@ def scrape_property_details(url):
                 elif "Land area" in li.text:
                     land_area = li.find("strong").text.strip()
 
+        # Return a dictionary of the scraped property details
         return {
             "URL": url,
             "Rent_Price": property_price,
@@ -116,7 +117,7 @@ def scrape_property_details(url):
             "Property_Description": property_description.strip(),
             "Extra_Features": ', '.join(extras),
             "Date_Available": date_available,
-            "Availability" : availability,
+            "Availability": availability,
             "Bond": bond,
             "Internal_Area": internal_area,
             "Land_Area": land_area
@@ -125,6 +126,7 @@ def scrape_property_details(url):
         print(f"Error extracting details from {url}: {e}")
         return None
 
+# Function to scrape all property links from a specific suburb and page number
 def scrape_page(suburb, page_number):
     print(f"Scraping page {page_number} for suburb {suburb}...")
     response = fetch_page(f"{home_url}/rent/{suburb}/?page={page_number}")
@@ -136,10 +138,12 @@ def scrape_page(suburb, page_number):
             return list(set(link.attrs['href'] for link in all_links if 'href' in link.attrs))
     return None
 
+# Main function to scrape all properties from each suburb
 def main():
     list_of_links = []
     properties_details = []
 
+    # First, scrape property links using ThreadPoolExecutor
     with ThreadPoolExecutor(max_workers=20) as executor: 
         for suburb in suburbs_with_zip_codes:
             suburb_has_links = False
@@ -159,8 +163,10 @@ def main():
                         print(f"No more links found for {suburb} at page {page_number}.")
                     break
 
-
+    # Remove duplicate links
     list_of_links = list(set(list_of_links))
+
+    # Scrape details for each property using ThreadPoolExecutor
     with ThreadPoolExecutor(max_workers=20) as executor: 
         future_to_link = {executor.submit(scrape_property_details, link): link for link in list_of_links}
         for future in as_completed(future_to_link):
@@ -168,7 +174,7 @@ def main():
             if property_details:
                 properties_details.append(property_details)
 
-
+    # Save the scraped data to a CSV file
     cwd = os.getcwd()
     csv_file = os.path.join(cwd, "data/landing/alt_properties2.csv")
     csv_columns = [
