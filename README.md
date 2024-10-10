@@ -111,3 +111,5 @@ Feature engineering and selection are critical for model building. Use the follo
 To construct predictive models, open and run the `7_ModelBuilding.ipynb`:
 
 * This notebook covers the creation and evaluation of various models, including simple regression models, stacked models, and deep learning approaches.
+
+[] Add License and Debugging notes
