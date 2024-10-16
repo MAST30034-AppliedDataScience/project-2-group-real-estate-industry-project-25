@@ -176,7 +176,7 @@ def main():
 
     # Save the scraped data to a CSV file
     cwd = os.getcwd()
-    csv_file = os.path.join(cwd, "data/landing/alt_properties2.csv")
+    csv_file = os.path.join(cwd, "data/landing/alt_properties.csv")
     csv_columns = [
         "URL", "Rent_Price", "Address", "Bedrooms", "Bathrooms", "Parking", "Property_Type",
         "Latitude", "Longitude", "Property_Headline", "Property_Description", "Extra_Features",
