@@ -29,7 +29,7 @@ cd project-2-group-real-estate-industry-project-25
 ## 2. Set Up a Python Virtual Environment (Recommended)
 Setting up a virtual environment ensures that your project dependencies are isolated from other Python projects on your system.
 
-1. Create a virtual environment (you can replace venv with any name you prefer):
+1. Create a virtual environment (you can replace group25env with any name you prefer):
 ``` bash
 conda create -n group25env python=3.11.5
 ```
