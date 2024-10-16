@@ -15,6 +15,8 @@ This guide will walk you through setting up, running, and understanding the proj
 10. [Feature Selection](#10-feature-selection)
 11. [Model Building and Evaluation](#11-model-building-and-evaluation)
 
+<span style="color:red">Refer to the [Debugging Notes](https://docs.google.com/document/d/1ZG4e5yGeJs5okkPj9j3ZS71zCII-B25ysQY466xIou8/edit?usp=sharing) for any encountered bugs.</span>
+
 ## 1. Clone the Repository
 
 First, open your terminal and run the following commands to clone the project repository and navigate into the project directory:
