@@ -22,6 +22,7 @@ This guide will walk you through setting up, running, and understanding the proj
 **Preferably, all the installation and activation of environment should be done in the terminal of your IDE.**
 
 **If running code of jupyter notebook, make sure you are using the right kernel -> <group25env> if using our recommended virtual environment.**
+![Jupyter Kernel](images/kernel.png)
 
 ## 1. Clone the Repository
 
