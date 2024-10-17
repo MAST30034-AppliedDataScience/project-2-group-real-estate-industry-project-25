@@ -23,7 +23,7 @@ This guide will walk you through setting up, running, and understanding the proj
 
 **If running code of jupyter notebook, make sure you are using the right kernel -> <group25env> if using our recommended virtual environment.**
 
-![Jupyter Kernel](images/kernel.png)
+![Jupyter Kernel](images/kernel.jpeg)
 
 ## 1. Clone the Repository
 
