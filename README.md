@@ -17,9 +17,15 @@ This guide will walk you through setting up, running, and understanding the proj
 
 <span style="color:red">Refer to the [Debugging Notes](https://docs.google.com/document/d/1ZG4e5yGeJs5okkPj9j3ZS71zCII-B25ysQY466xIou8/edit?usp=sharing) for any encountered bugs.</span>
 
+**Ensure that when using a virtual environment, the dependencies are downloaded to the virtual environment. Also, make sure that you are in the right directory if using your device's terminal.**
+
+**Preferably, all the installation and activation of environment should be done in the terminal of your IDE.**
+
+**If running code of jupyter notebook, make sure you are using the right kernel -> <group25env> if using our recommended virtual environment.**
+
 ## 1. Clone the Repository
 
-First, open your terminal and run the following commands to clone the project repository and navigate into the project directory:
+First, open your terminal **in your IDE terminal** and run the following commands to clone the project repository and navigate into the project directory:
 
 ```bash
 git clone https://github.com/MAST30034-AppliedDataScience/project-2-group-real-estate-industry-project-25.git
@@ -62,55 +68,50 @@ To use the OpenRouteService API for location-based analysis, follow these steps:
 
 Navigate to the `notebooks` directory and run the `1_DataCollecting.ipynb` to fetch external datasets:
 
+* Run all cells to download datasets and generate a list of target suburbs for further analysis.
 
-
+## 6. API Key Insertion
 1. In the project directory, go to the `config` folder.
 2. Open the `api_key.txt` file (create one if it doesn't exist) and paste your OpenRouteService API key into the file.
 3. Ensure no extra characters or newline.
 
-* Run all cells to download datasets and generate a list of target suburbs for further analysis.
+## 7. Data Scraping
 
-## 6. Data Scraping
+To collect property data from Domain.com.au, run the `2_scrape.py` located in the `scripts` folder. 
 
-To collect property data from Domain.com.au, run the `2_scrape.ipynb` located in the `scripts` folder:
-
-```bash
-cd ../scripts
-python scrape.py
-```
+**! To ensure that the script runs smoothly, run the script by pressing the run button in VSCode**
 **Note:** The data scraping process may take 30-40 minutes, depending on your machine. For example, an M2 MacBook Air (8GB RAM) takes approximately 40 minutes.
 
 
-## 7. Data Preprocessing
+## 8. Data Preprocessing
 
 Preprocess the collected data to prepare it for analysis. Run the `3_Preprocessing.ipynb` and make sure to insert your OpenRouteService API key when prompted:
 
-
 * This step includes cleaning the data, handling missing values, converting categorical data, and addressing outliers.
 
-## 8. Exploratory Data Analysis (EDA)
+## 9. Exploratory Data Analysis (EDA)
 
 To gain insights into the dataset, open and run the `4_EDA.ipynb`:
 
-
 * This notebook provides visualizations, feature distributions, and insights into the significance of various columns.
 
-## 9. School Count Analysis
+## 10. School Count Analysis
 
 To analyze the impact of nearby schools on property prices, run the `5_SchoolCountAnalysis.ipynb`:
 
-
-
 * This notebook aggregates nearby school counts and creates a feature that captures the number of schools within a 2km radius for each property.
 
-## 10. Feature Selection
+## 11. Feature Selection
 
 Feature engineering and selection are critical for model building. Use the following notebook - `6_FeatureSelections.ipynb`to perform feature scaling, one-hot encoding, KNN imputation, PCA, and mutual information analysis:
 
 
-## 11. Model Building and Evaluation
+## 12. Model Building and Evaluation
 
 To construct predictive models, open and run the `7_ModelBuilding.ipynb`:
 
 * This notebook covers the creation and evaluation of various models, including simple regression models, stacked models, and deep learning approaches.
 
+## 13. Summary Notebook (For the 3 big question)
+
+To view our findings and insights, run `(BONUS)summary.ipynb`
