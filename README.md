@@ -20,6 +20,8 @@ This guide will walk you through setting up, running, and understanding the proj
 **Ensure that when using a virtual environment, the dependencies are downloaded to the virtual environment. Also, make sure that you are in the right directory if using your device's terminal.**
 
 **Preferably, all the installation and activation of environment should be done in the terminal of your IDE.**
+![IDE Terminal](images/envterminal.png)
+
 
 **If running code of jupyter notebook, make sure you are using the right kernel -> <group25env> if using our recommended virtual environment.**
 
@@ -82,6 +84,11 @@ Navigate to the `notebooks` directory and run the `1_DataCollecting.ipynb` to fe
 To collect property data from Domain.com.au, run the `2_scrape.py` located in the `scripts` folder. 
 
 **! To ensure that the script runs smoothly, run the script by pressing the run button in VSCode**
+
+![IDE Terminal](images/envterminal.png)
+
+![Conda environment](images/pythonconda.png)
+
 **Note:** The data scraping process may take 30-40 minutes, depending on your machine. For example, an M2 MacBook Air (8GB RAM) takes approximately 40 minutes.
 
 
